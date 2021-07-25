@@ -1,2 +1,2 @@
-# Algoritmalar-Veri-Yap-lar-ve-Real-Life-Python-Problemleri
+# Algoritmalar Veri Yapilar ve Real Life Python Problemleri
 DATAI TEAM UDEMY KURSU
